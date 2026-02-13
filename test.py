@@ -1,1 +1,1 @@
-print("Wassup Buddy!! , qwerty")
+qqeffprint("Wassup Buddy!! , qwerty")

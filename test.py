@@ -1,1 +1,1 @@
-print("Wassup Buddy!! , how are you")
+print("Wassup Buddy!! , qwerty")

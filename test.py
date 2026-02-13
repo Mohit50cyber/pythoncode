@@ -1,1 +1,1 @@
-print("Wassup Buddy!! , so are you relaxing")
+print("Wassup Buddy!! , how are you")
